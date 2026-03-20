@@ -5,8 +5,8 @@ This project explores advanced steganography techniques applied to Large Languag
 
 Key Features:
 
-Controlled Generation: Secret encoding by manipulating token probability distributions (Green/Red lists).
+- Controlled Generation: Secret encoding by manipulating token probability distributions (Green/Red lists).
 
-Detection & Recovery: Algorithms designed to identify modified text and extract hidden messages without affecting semantic coherence.
+- Detection & Recovery: Algorithms designed to identify modified text and extract hidden messages without affecting semantic coherence.
 
-Robustness Analysis: Evaluation of resistance against common text-editing attacks and human detection.
+- Robustness Analysis: Evaluation of resistance against common text-editing attacks and human detection.
